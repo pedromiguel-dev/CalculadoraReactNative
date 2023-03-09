@@ -12,7 +12,7 @@ npm install
 npx react-native run-android
 ```
 
-##Images
+## Images
 ![Showing Emulator](./pictures/Screenshot_1678386288.png 'Emulator')
 
 ## Author
