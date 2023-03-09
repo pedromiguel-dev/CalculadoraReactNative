@@ -3,7 +3,6 @@ import Button from './Button';
 import {View, Text, ScrollView, Animated} from 'react-native';
 import {Styles} from '../styles/GlobalStyles';
 import {myColors} from '../styles/colors';
-// import {Float} from 'react-native/Libraries/Types/CodegenTypes';
 import useCalculator from '../hooks/useCalculator';
 
 export default function MyKeyboard() {
